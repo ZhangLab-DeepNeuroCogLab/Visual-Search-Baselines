@@ -1,6 +1,6 @@
 # Visual-Search-Baselines
 
-This repository contains the baseline models used in the **TCT** paper for visual search analysis and benchmarking.  
+This repository contains the baseline models used in the [TCT](https://arxiv.org/pdf/2211.13470) paper for visual search analysis and benchmarking.  
 The baselines span multiple paradigms, including contextual reasoning, human scanpath modeling, and computational saliency.
 
 ## 📄 Baselines
